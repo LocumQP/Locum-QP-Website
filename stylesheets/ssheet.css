@@ -1,0 +1,25 @@
+@charset "iso-8859-1";
+a:hover {font-family: Verdana, Arial, Helvetica, sans-serif;color: #FFFF33;font-weight: normal;text-decoration: none} 
+a:link { font-family: Verdana, Arial, Helvetica, sans-serif; color: #003399; text-decoration: none} 
+a:active { font-family: Verdana, Arial, Helvetica, sans-serif;color: #003399;text-decoration: none} 
+a:visited { font-family: Verdana, Arial, Helvetica, sans-serif;color: #003399;text-decoration: none} 
+a:visited:hover {font-family: Verdana, Arial, Helvetica, sans-serif;color: Blue;text-decoration: none} 
+.heading { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 16pt; color: #0099CC}
+.text6 { font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 6pt} 
+.text7 { font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 7pt;line-height: 11pt} 
+.text8 { font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 8pt}
+.text10 { font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10pt}
+.text12 { font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 12pt}
+.text14 { font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 14pt}
+.text16 { font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 16pt}
+.text10green { font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10pt;color: Green} 
+.text6black { font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 6pt;color: Black} 
+.text7black { font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 7pt;color: Black} 
+.text8black { font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 8pt;color: Black} 
+.text10black { font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10pt;color: Black} 
+.text12black { font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 12pt;color: Black} 
+.text14black { font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 14pt;color: Black} 
+.text16black { font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 16pt;color: Black} 
+body {background-repeat: no-repeat}
+
+
